@@ -1,0 +1,15 @@
+body{
+    background-image: url("fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+}   
+
+.imagen img{
+    width: 200px;
+    height: 250px;
+}
